@@ -1,4 +1,4 @@
-![tech_bg](techbg.jpg)
+![tech_bg](liftoff.jpg)
 ### Hi there 👋
 
 🌱 I’m currently learning Full Stack JavaScript
