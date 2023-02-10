@@ -1,3 +1,4 @@
+![tech_bg](techbg.jpg)
 ### Hi there 👋
 
 🌱 I’m currently learning Full Stack JavaScript
